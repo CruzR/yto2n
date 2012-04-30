@@ -1,0 +1,10 @@
+{
+	"name": {
+		"message": "Youtube API Old to New",
+		"description": "Name of this extension"
+	},
+	"desc": {
+		"message": "This extension converts calls to the old Youtube API to calls to the new one, therefore allowing HTML5 support.",
+		"description": "Description of this extension"
+	}
+}

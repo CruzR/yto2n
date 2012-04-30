@@ -1,0 +1,16 @@
+{
+	"name": "__MSG_name__",
+	"version": "0",
+	"manifest_version": 2,
+	
+	"description": "__MSG_desc__",
+	"icons": null,
+	"default_locale": "en",
+	
+	"content_scripts": [
+		{
+			"matches": ["http://*", "https://*"],
+			"js": ["jquery-1.7.2.min.js", "yto2n.js"]
+		}
+	]
+}
